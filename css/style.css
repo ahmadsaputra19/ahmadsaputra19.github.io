@@ -157,3 +157,9 @@ body {
   background: transparent;
   box-shadow: 0 0 20px 5px red;
 }
+
+.container h2 {
+  text-align: center;
+}
+
+/* Project */
